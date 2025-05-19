@@ -161,11 +161,11 @@ main {
         margin-top: 79px;
 
     }
-       /*hero*/
-       #cover-text {
+    /*hero*/
+    #cover-text {
         width: 300px;
         right: 50px;
-       }
+    }
 }
 /* media query: larger devices - laptops and desktops (992px and up) */ 
 @media screen and (min-width: 992px) {
