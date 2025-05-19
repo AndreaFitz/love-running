@@ -166,6 +166,14 @@ main {
         width: 300px;
         right: 50px;
     }
+
+    /*reasons*/
+    #reasons {
+        width: 90%;
+        margin: 20 auto 20 auto;
+
+    }
+
 }
 /* media query: larger devices - laptops and desktops (992px and up) */ 
 @media screen and (min-width: 992px) {
